@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Notes](README.md)
+* [Hacker Of Pain](README.md)
 

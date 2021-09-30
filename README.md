@@ -1,6 +1,2 @@
----
-description: Geek Notes
----
-
-# Notes
+# Hacker Of Pain
 
